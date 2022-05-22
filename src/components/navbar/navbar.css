@@ -1,0 +1,32 @@
+.logo-nav{
+    max-height: 4rem;
+}
+
+.nav-link-p{
+    color: #efb537!important;
+  }
+.flex-navbar{
+    display: flex;
+}  
+.cartWidget{
+    order:0;
+}
+.navbar-toggler{
+    order:-1;
+}
+
+@media (min-width:1199px){
+    .cartWidget{
+        order:1;
+    }
+    .nav-link{
+        margin-right: 3rem;
+    }
+    .nav-link:last-of-type{
+        margin-right: 0;
+    }
+    .flex-navbar{
+        justify-content: space-around;
+    }
+}
+

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "category": "Carne", 
+        "title":"Pepi Carne", 
+        "brand":"PepiBox",
+        "price":850, 
+        "stock": 9,
+        "picUrl":"https://wairikeando.files.wordpress.com/2018/05/pepito.jpg",
+        "description": "Es un pan flauta de 30 cm, relleno de carne al grill, lechuga, tomate, repollo, queso, papas pay, panceta, huevo, jamón y salsas tradicionales (mayo, ketchup y mostaza), salsa de ajo."
+    },
+    
+    {
+        "id": 1,
+        "category": "Pollo", 
+        "title":"Pepi Pollo",  
+        "brand":"PepiBox",
+        "price":850,  
+        "stock": 11,
+        "picUrl":"https://elmenuenlinea.net/muestra-9/wp-content/uploads/sites/13/2020/12/pepito-de-pollo.jpg",
+        "description": "Es un pan flauta de 30 cm, relleno de pollo al grill, lechuga, tomate, repollo, queso, papas pay, panceta, huevo, jamón y salsas tradicionales (mayo, ketchup y mostaza), salsa de ajo."
+    },
+  
+    {
+        "id": 2,
+        "category": "Chuleta", 
+        "title":"Pepi Chuleta",  
+        "brand":"PepiBox",
+        "price": 950,  
+        "stock": 10,
+        "picUrl":"https://tomatesenmijardin.files.wordpress.com/2017/04/pepito-2.png",
+        "description": "Es un pan flauta de 30 cm, relleno de chuleta ahumada, lechuga, tomate, repollo, queso, papas pay, panceta, huevo, jamón y salsas tradicionales (mayo, ketchup y mostaza), salsa de ajo."
+    },
+    {
+        "id": 3,
+        "category": "Mixto", 
+        "title":"Pepi Mixto",  
+        "brand":"PepiBox",
+        "price": 1200,  
+        "stock": 18,
+        "picUrl":"https://okdiario.com/img/2019/07/09/receta-de-pepito-de-carne-a-la-mexicana-655x368.jpg",
+        "description": "Es un pan flauta de 30 cm, relleno de chuleta ahumada, pollo y carne al grill, lechuga, tomate, repollo, queso, papas pay, panceta, huevo, jamón y salsas tradicionales (mayo, ketchup y mostaza), salsa de ajo."
+    }
+]

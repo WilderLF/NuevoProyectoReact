@@ -1,0 +1,26 @@
+.cart-style{
+    color: #efb537;
+    font-size: 1.5rem;
+}
+.cartCant{
+    color: #efb537;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-right: 1.3rem;
+}
+
+.cartWidget{
+    position: relative;
+}
+.cartWidget:hover{
+    cursor:pointer;
+}
+
+.card-click{
+    position: absolute;
+    z-index: 9;
+    top: 58px;
+    right: 0;   
+    width: 102px;
+    
+} 

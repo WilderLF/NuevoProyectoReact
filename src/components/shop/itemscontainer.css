@@ -1,0 +1,26 @@
+
+.banner{
+    height: 30vh;
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+       ),  url(https://img.freepik.com/psd-gratis/arreglo-comida-rapida-sobre-fondo-madera_23-2148321316.jpg);
+    /* background-position: ; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-1{
+    display: flex;
+    
+    justify-content: center;
+}
+.banner-1 h2{
+    font-size: 4rem;
+    font-weight: bold;    
+    color: white;   
+    text-transform: uppercase; 
+}
